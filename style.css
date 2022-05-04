@@ -1,0 +1,16 @@
+body{
+  background-color: darkblue;  
+  color: white;
+}
+.heading{
+  width: 80%;  
+  font-size: 25px; 
+}
+#webcamera{
+    border:2px dashed aliceblue;
+    width:350px;
+    height:300px;
+}
+.name_of_objects ,#result_object_name,#result_object_accuracy{
+    color: gold;
+}
